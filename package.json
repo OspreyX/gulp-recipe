@@ -1,0 +1,16 @@
+{
+  "name": "gulp-recipe",
+  "version": "0.0.0",
+  "description": "OpenFin Gulp Recipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": ">=3.8.10",
+    "openfin-config-builder": ">=1.0.2",
+    "openfin-launcher": ">=0.1.2"
+  }
+}
