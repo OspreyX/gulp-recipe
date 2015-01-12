@@ -1,6 +1,6 @@
 #OpenFin gulp-recipe
 
-Gulpfile Recipe demostrating basic OpenFin build integration, creating an 'openfin' task that: 
+Gulpfile Recipe demonstrating basic OpenFin build integration, creating an 'openfin' task that: 
 
 * Creates an OpenFin configuration file
 * Updates that configuration file with new values
